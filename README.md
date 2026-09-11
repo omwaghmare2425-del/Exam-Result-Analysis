@@ -72,11 +72,13 @@ Exam-Result-Analysis
 
 **Developed By:** Omkar Waghmare
 
+**College:** CSMSS College of Engineering, Chh.SambhajiNagar
+
 **Department:** Artificial Intelligence & Data Science (AI&DS)
 
-**Roll No:** AI3212
+**Class:** TY-B
 
-**Division:** B
+**Roll No:** AI3212
 
 **Technology:** Python
 
